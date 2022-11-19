@@ -1,6 +1,6 @@
 try 
 {
-  console.log(`Hello version v1}`);  
+  console.log(`Hello version v1.1}`);  
 } 
 catch (error) 
 {
