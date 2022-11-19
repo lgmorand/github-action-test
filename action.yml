@@ -1,0 +1,9 @@
+name: 'A test GitHub Action' # name of the action (mandatory)
+description: 'Dummy GitHub Action' #  simple description (mandatory)
+author: 'Louis-Guillaume MORAND' # author (optional)
+runs:
+  using: 'node16' # Action de type JavaScript utilisant NodeJS 16
+  main: 'index.js' # le point d'entrée (script principal) est un fichier index.js
+branding:
+  icon: 'message-circle'  
+  color: 'orange' 
